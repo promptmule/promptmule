@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning about networking in the AI community
 - 💞️ I’m looking to collaborate on prompt engineering related applications related to OpenAI
 - 📫 How to reach me info@promptmule.com or www.promptmule.com
-- Also, check out PromptMule demos @promptmule4real https://github.com/promptmule4real/
+- See demos of lots of Generative AI caches: InMemory, SQLite, GPTCache, and others @promptmule4real
+- Also, check out PromptMule's Cloud-based Semnatic Cache demos @promptmule4real https://github.com/promptmule4real/
 
 
 
